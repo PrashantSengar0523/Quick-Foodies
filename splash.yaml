@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/android-chrome-192x192.png
+
+
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/android-chrome-192x192.png
+
+  web: true
