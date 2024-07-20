@@ -1,7 +1,9 @@
-###Overview
+###
+Overview
 Quick Foodies is a Flutter application designed to provide a seamless and intuitive food ordering experience. The app allows users to browse a variety of food categories, view detailed information about products, and manage their favorite items. It integrates with Firebase for real-time data management and image storage.
 
-###Features
+###
+Features
 User Authentication: Sign up and log in as either a normal user or an admin.
 Product Categories: Browse through various food categories such as Pizza, Burgers, Desserts, and more.
 Product Details: View detailed information about each product, including images, price, calories, rating, and description.
@@ -10,7 +12,8 @@ Search Functionality: Quickly find products using the search feature.
 Real-Time Updates: Products and user favorites are managed in real-time using Firebase.
 Shimmer Effects: Smooth loading experience with shimmer effects while data is being fetched.
 
-###Usage
+###
+Usage
 #Authentication
 Users can sign up as either normal users or admins.
 Admins have additional capabilities to manage products, including adding, updating, or deleting them.
@@ -28,7 +31,8 @@ Make Changes: Implement your changes in the new branch.
 Submit a Pull Request: Open a pull request with a description of your changes.
 
 
-##Contact
+##
+Contact
 For any questions or feedback, please reach out to:
 
 Email: prashantthakur0523@.com
